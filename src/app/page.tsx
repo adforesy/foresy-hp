@@ -43,8 +43,8 @@ export default function Home() {
       <section className="border-b border-border bg-white">
         <Container className="py-16 sm:py-24 lg:py-28">
           <div className="max-w-2xl">
-            <p className="text-sm font-medium uppercase tracking-wider text-accent">
-              Digital Advertising Partner
+            <p className="text-sm font-medium tracking-wide text-accent">
+              デジタル広告・データ計測のパートナー
             </p>
             <h1 className="mt-4 text-3xl font-bold tracking-tight text-foreground sm:text-4xl lg:text-5xl">
               成果につながる広告と計測を、
