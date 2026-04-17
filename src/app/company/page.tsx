@@ -49,6 +49,16 @@ export default function CompanyPage() {
         </div>
 
         <section className="mt-16 max-w-2xl">
+          <h2 className="text-xl font-semibold text-foreground">
+            Google Ads API の利用について
+          </h2>
+          <p className="mt-4 leading-relaxed text-muted">
+            当社はGoogle Ads APIを使用して、クライアントの広告パフォーマンスデータを自動取得し、Looker
+            Studioによるレポート自動化・可視化に活用しています。取得したデータはレポート作成目的にのみ使用し、第三者への提供は行いません。
+          </p>
+        </section>
+
+        <section className="mt-16 max-w-2xl">
           <h2 className="text-xl font-semibold text-foreground">ミッション</h2>
           <p className="mt-4 leading-relaxed text-muted">
             複雑になりがちなデジタル広告とアナリティクスを、意思決定に使える形へ整理すること。

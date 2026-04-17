@@ -19,6 +19,9 @@ export function Footer() {
             <Link href="/contact" className="text-muted hover:text-foreground">
               お問い合わせ
             </Link>
+            <Link href="/privacy" className="text-muted hover:text-foreground">
+              プライバシーポリシー
+            </Link>
           </nav>
         </div>
         <p className="mt-8 border-t border-border pt-8 text-center text-xs text-muted">
